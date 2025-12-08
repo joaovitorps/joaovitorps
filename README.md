@@ -13,7 +13,7 @@
 
 - 💻 I’m currently working on **Web Development projects**
 - 🚀 Improving my skills in **Node.js and Architecture**
-- 🧠 Ask me about **PHP, Laravel, React, and System Design**
+- 🧠 Ask me about **PHP, Laravel and React**
 - 💌 How to reach me: **[dev.joaosantos@outlook.com](mailto:dev.joaosantos@outlook.com)**
 
 ---
@@ -66,11 +66,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovitorps/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/joaovitorps)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.joaosantos@outlook.com)
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovitorps&theme=tokyonight&hide_border=true" alt="streak stats"/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaovitorps&row=1&column=7&margin-w=15&margin-h=15" alt="joaovitorps" />
-</a>
