@@ -11,8 +11,8 @@
 
 ### 👾 About Me
 
-- 💻 I’m currently working on **base of development to become a Software Engineer**
-- 🚀 Improving my skills in **Node.js, GO, Architecture and Data Structue**
+- 💻 I’m currently working on **developing a strong background to become a Software Engineer**
+- 🚀 Improving my skills in **Node.js, GO, Architecture, and Data Structure**
 - 🧠 Ask me about **PHP, Laravel and React**
 - 💌 How to reach me: **[dev.joaosantos@outlook.com](mailto:dev.joaosantos@outlook.com)**
 - 🤓 Check my website at: **[joaovitorps.dev](https://joaovitorps.dev/)**
