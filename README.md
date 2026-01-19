@@ -11,7 +11,7 @@
 
 ### 👾 About Me
 
-- 💻 I’m currently working on **Web Development projects**
+- 💻 I’m currently working on **base of development to become a Software Engineer**
 - 🚀 Improving my skills in **Node.js, GO, Architecture and Data Structue**
 - 🧠 Ask me about **PHP, Laravel and React**
 - 💌 How to reach me: **[dev.joaosantos@outlook.com](mailto:dev.joaosantos@outlook.com)**
