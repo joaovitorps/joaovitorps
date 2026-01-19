@@ -12,7 +12,7 @@
 ### 👾 About Me
 
 - 💻 I’m currently working on **Web Development projects**
-- 🚀 Improving my skills in **Node.js and Architecture**
+- 🚀 Improving my skills in **Node.js, GO, Architecture and Data Structue**
 - 🧠 Ask me about **PHP, Laravel and React**
 - 💌 How to reach me: **[dev.joaosantos@outlook.com](mailto:dev.joaosantos@outlook.com)**
 - 🤓 Check my website at: **[joaovitorps.dev](https://joaovitorps.dev/)**
